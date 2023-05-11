@@ -1,0 +1,105 @@
+
+
+td{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 0;
+    min-width: 5rem;
+}
+
+table{
+    table-layout: fixed;
+}
+
+tr{
+    border: 1px solid ;
+}
+
+.input{
+    background-color: white;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.tab{
+    max-width: 50rem;
+    max-height: 33rem;
+    overflow: auto;
+}
+
+
+
+#outlined-number{
+    background-color: white;
+    ;
+}
+
+.rowCol{
+    position: fixed;
+    right: 5rem;
+    margin-top: 2%;
+}
+
+.buttons{
+  background-color: black;
+  color: #fff;
+  padding: 10px;
+
+}
+
+.final{
+    width: 20rem;
+    padding: 50px 50px 0px 50px;
+    margin-top: 30px;
+    position: fixed;
+    top: 15rem;
+    right: 6rem;
+    background-color: white;
+    border: 1px solid red;
+    font-size: 25px;
+}
+
+.house{
+    background-color: white;
+}
+
+.close{
+    border: none;
+    background-color: white;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    cursor: pointer;
+}
+
+.finalized{
+    width: 20rem;
+    padding: 50px 50px 50px 50px;
+    margin-top: 30px;
+    position: fixed;
+    right: 6rem;
+    top: 15rem;
+    background-color: white;
+    border: 2px solid red;
+    font-size: 25px;
+}
+
+.rules{
+    background-color: black;
+    width: fit-content;
+    text-align: left;
+    padding: 10px;
+    margin-top: 30px;
+    position: fixed;
+    right: 5rem;
+    top: 15rem;
+    color: rgb(101, 139, 215);
+}
+
+ol li{
+    list-style-type: square;
+}
+
+ul{
+    list-style-type: none;
+}
